@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 export const useForm  = initialValue => {
-    const [values, setValues] = useState(initialValue) ;
+    const [values, setValues] = useState(initialValue);
 
     return [
         values,

@@ -6,6 +6,7 @@
     "axios": "^0.19.0",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
+    "generate_components_from_cli_react": "^1.1.10",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-redux": "^7.0.3",

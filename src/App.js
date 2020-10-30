@@ -1,12 +1,11 @@
 import React , { useState } from "react";
-import { useForm } from './components/useForm.jsx';
+import { useForm } from './components/useForm';
 import HelloComponent from "./components/Hello";
-import { useFetch } from "./components/useFetch.jsx";
+import { useFetch } from "./components/useFetch";
 import { DemoUseReducer } from "./components/DemoUseReducer";
 
 // we cn use it in useState as default value
 // let expensiveInitialState = () => 43 ; 
-
 
 const App = () => {
     // const [val , setVal] =  useState(() => expensiveInitialState())
