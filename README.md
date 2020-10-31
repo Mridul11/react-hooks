@@ -2,8 +2,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts to run 
 my own changes
 
-## Available Scripts 
-
 In the project directory, you can run:
 In the project directory, you can run:
 
