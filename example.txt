@@ -6,3 +6,5 @@ This change from remote master!
 
 updating another line from local feature!
 I have updated the remote branch!
+
+I am changing this and will stash and apply !
