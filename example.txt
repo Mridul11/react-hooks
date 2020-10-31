@@ -2,5 +2,7 @@ Example file!
 this is one more line!
 This is another line added to the file just now !!!
 tis another line
-I have updated the remote branch!
+This change from remote master!
 
+updating another line from local feature!
+I have updated the remote branch!
